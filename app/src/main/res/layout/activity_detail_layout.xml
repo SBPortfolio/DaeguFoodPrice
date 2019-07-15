@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <TextView
+        android:id="@+id/detail_spcies_nm"
+        style="@style/DetailListViewText"/>
+    <TextView
+        android:id="@+id/detail_mark_nm"
+        style="@style/DetailListViewText"/>
+    <TextView
+        android:id="@+id/detail_amt"
+        style="@style/DetailListViewText"/>
+    <TextView
+        style="@style/DetailListViewText"
+        android:text="@string/won"/>
+    <TextView
+        android:id="@+id/detail_unit"
+        style="@style/DetailListViewText"  />
+</LinearLayout>

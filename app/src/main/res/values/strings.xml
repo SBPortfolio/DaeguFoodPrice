@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DaeguFoodPrice</string>
+    <string name="app_subject">대구 식재료 가격 정보</string>
+    <string name="button_basic">확인</string>
+    <string name="noData">데이터 없음</string>
+    <string name="Return">되돌아가기</string>
+
+    <string name="EXAMIN_DE">가격조사 일자</string>
+    <string name="FRMPRD_CATGORY_NM">농산물 부류명</string>
+    <string name="FRMPRD_CATGORY_CD">부류코드</string>
+    <string name="PRDLST_CD">품목코드</string>
+    <string name="PRDLST_NM">품목명 :</string>
+    <string name="SPCIES_CD">품종코드</string>
+    <string name="SPCIES_NM">품종명 :</string>
+    <string name="GRAD_CD">등급코드</string>
+    <string name="GRAD_NM">등급명</string>
+    <string name="EXAMIN_UNIT">조사단위</string>
+    <string name="AREA_CD">지역코드</string>
+    <string name="AREA_NM">지역명</string>
+    <string name="MRKT_CD">시장코드</string>
+    <string name="MRKT_NM">시장명</string>
+    <string name="AMT">조사 가격(원)</string>
+
+    <string name="category_100">식량작물</string>
+    <string name="category_200">채소류</string>
+    <string name="category_300">특용작물</string>
+    <string name="category_400">과일류</string>
+    <string name="category_500">축산물</string>
+    <string name="category_600">수산물</string>
+
+    <string name="won">원/ </string>
+</resources>

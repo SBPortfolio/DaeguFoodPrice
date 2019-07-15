@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/mainListContainer"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            style="@style/ListViewText"
+            android:id="@+id/FRMPRD_CATGORY_NM" />
+        <TextView
+            style="@style/ListViewText"
+            android:text="@string/PRDLST_NM" />
+        <TextView
+            style="@style/ListViewText"
+            android:id="@+id/SPCIES_NM"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="/"/>
+        <TextView
+            style="@style/ListViewText"
+            android:id="@+id/PRDLST_NM" />
+        <TextView
+            style="@style/ListViewText"
+            android:text="@string/MRKT_NM" />
+        <TextView
+            style="@style/ListViewText"
+            android:id="@+id/MRKT_NM" />
+        <TextView
+            style="@style/ListViewText"
+            android:id="@+id/AMT" />
+        <TextView
+            style="@style/ListViewText"
+            android:text="@string/won"/>
+        <TextView
+            style="@style/ListViewText"
+            android:id="@+id/EXAMIN_UNIT" />
+    </LinearLayout>
+</LinearLayout>
